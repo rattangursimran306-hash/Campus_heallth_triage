@@ -1,0 +1,22 @@
+CAMPUS HEALTH SERVICES: EMERGENCY ESCALATION PROTOCOL (SOP-EMS-001)
+Authority: Campus Health Executive Committee & Emergency Medical Response Team
+Document Version: 4.2 | Effective Date: Fall Semester 2026
+
+1. PURPOSE & PRINCIPLE OF IMMEDIATE ESCALATION
+The Campus Health Center is an outpatient ambulatory facility and is NOT equipped as an emergency trauma or acute resuscitation department. When a patient presents or self-reports symptoms indicative of immediate life-threatening physiological deterioration, clinical review and appointment queuing MUST be bypassed in favor of immediate transfer to the tertiary emergency hospital.
+
+2. MANDATORY EMERGENCY ESCALATION TRIGGERS (RED FLAGS)
+Staff and automated decision support systems must trigger immediate human escalation under any of the following clinical presentations:
+- Severe Acute Chest Pain: Crushing, substernal, or radiating chest pain to the left arm, neck, or jaw, particularly when accompanied by diaphoresis (cold sweat), dyspnea, or nausea (potential Acute Coronary Syndrome).
+- Severe Respiratory Distress: Cyanosis (blue discoloration of lips/fingers), inability to speak full sentences, audible stridor, severe wheezing unresponsive to rescue inhalers, or oxygen saturation < 90%.
+- Severe Anaphylaxis: Acute onset of facial/lip/tongue angioedema, airway compromise, diffuse urticaria, and hypotension following allergen exposure.
+- Altered Mental Status & Acute Neurological Deficits: Sudden loss of consciousness, focal weakness, acute facial droop, slurred speech (FAST criteria for stroke), or prolonged seizure activity.
+- Uncontrolled Hemorrhage: Pulsatile arterial bleeding or profuse venous blood loss that cannot be arrested by direct pressure.
+- Severe Trauma / Spinal Injury: High-impact falls, motor vehicular impact, or suspected cervical spine compromise.
+
+3. IMMEDIATE ACTION STEPS
+A. Call Campus Emergency Medical Services (EMS) at Extension 911 or direct hospital line +91-11-2659-6100.
+B. Do not allow patient to walk or remain unmonitored. Escort to the Acute Stabilization Bay (Room 101).
+C. Administer high-flow supplemental oxygen (10-15 L/min via non-rebreather) if trained personnel are present.
+D. Keep automated external defibrillator (AED) on standby.
+E. Notify the Chief Medical Officer immediately.

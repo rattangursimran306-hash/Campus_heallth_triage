@@ -1,0 +1,28 @@
+CAMPUS HEALTH SERVICES: RESPIRATORY & COMMUNICABLE INFECTION PROTOCOL (SOP-RESP-003)
+Guideline Standards: WHO Influenza & Respiratory Virus Surveillance Guidelines & CDC College Health Protocol
+Document Version: 3.1 | Reference: CHS-INFECT-2026
+
+1. INTAKE & INFECTION CONTROL IN RESIDENTIAL CAMPUS SETTINGS
+Due to close congregate living in university dormitories, infectious diseases (influenza, SARS-CoV-2, RSV, infectious mononucleosis, and meningococcal infection) present substantial outbreak risks. Early screening and triage prioritization prevent transmission chains.
+
+2. IMMEDIATE DROPLET ISOLATION CRITERIA
+Any student presenting with acute respiratory symptoms accompanied by:
+- Temperature >= 38.0°C (100.4°F)
+- Sore throat, cough, coryza, or loss of taste/smell
+must be immediately provided with a surgical or N95 mask and directed to the Dedicated Respiratory Isolation Waiting Area (Annex B).
+
+3. DIFFERENTIATING URGENCY IN RESPIRATORY ILLNESS
+A. Emergency Escalation:
+- Acute dyspnea, retractions, oxygen saturation <90% on room air, or persistent hemoptysis.
+- Stridor, tachypnea (>28 breaths per minute in adults), or inability to lie flat.
+B. Urgent / High Priority Review:
+- Fever >39°C lasting over 48 hours without relief from antipyretics.
+- Deep pleuritic chest pain aggravated by deep inspiration or coughing.
+- Suspected bacterial pneumonia in immunocompromised or asthmatic students.
+C. Medium Priority Review:
+- Typical viral bronchitis or tracheitis: rhinorrhea, mild barking cough, low-grade pyrexia (<38.5°C), duration 2-5 days.
+D. Routine Review:
+- Residual post-viral dry cough persisting >14 days without fever, wheeze, or constitutional fatigue.
+
+4. DIAGNOSTIC SUPPORT RESTRICTION
+Non-clinical decision-support algorithms must NOT attempt to differentiate between viral strains (e.g. influenza vs Covid-19) based solely on symptom checklists. Prioritization serves strictly to manage clinic waiting queues safely.

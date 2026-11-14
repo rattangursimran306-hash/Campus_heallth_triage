@@ -1,0 +1,40 @@
+CAMPUS HEALTH SERVICES: TRIAGE REVIEW CATEGORIES & WARNING SIGN CRITERIA (SOP-TRIAGE-002)
+Approved by: Medical Director, Campus Health Services
+Document Ref: CHS-CLIN-2026-B | Reference Guidelines: Manchester Triage System & WHO Ambulatory Triage
+
+1. ADMINISTRATIVE REVIEW CATEGORIES OVERVIEW
+The triage decision support system categorizes incoming student and staff presentations into non-diagnostic operational priority tiers. The priority category dictates maximum safe waiting time until in-person clinician evaluation.
+
+2. URGENT REVIEW (TARGET WAIT TIME: < 15 MINUTES)
+Presentations that exhibit significant physiological risk or high potential for acute deterioration:
+- Severe acute abdominal pain with abdominal guarding, rebound tenderness, or right lower quadrant localization (suspected acute appendicitis or hollow viscus pathology).
+- High persistent pyrexia (fever >= 39.0°C / 102.2°F) accompanied by rigors, tachycardia, or symptoms lasting over 48 hours without defervescence.
+- Open wounds with sustained moderate bleeding requiring urgent primary closure or suturing.
+- Acute severe eye trauma, chemical splash, or sudden unilateral vision loss.
+- Signs of acute severe dehydration with inability to retain oral fluids, dry mucous membranes, and postural dizziness.
+
+3. HIGH PRIORITY REVIEW (TARGET WAIT TIME: < 45 MINUTES)
+Presentations causing severe discomfort, risk of permanent musculoskeletal impairment, or progressive infectious symptoms:
+- Suspected bone fracture, joint dislocation, or joint deformity following athletic or campus trauma.
+- Severe localized soft-tissue infection (erythema with rapid spreading margin, lymphangitis).
+- Acute purulent tonsillitis with trismus (difficulty opening jaw) or severe odynophagia.
+- Acute migraine or tension headache of high severity (pain scale 8-10/10) without red-flag neurological focal signs.
+- Persistent non-stop vomiting (>24 hours) requiring antiemetics and intravenous fluid hydration.
+
+4. MEDIUM PRIORITY REVIEW (TARGET WAIT TIME: < 120 MINUTES)
+Subacute illnesses and moderate symptomatic complaints:
+- Upper respiratory tract infections with productive cough and moderate fever (<38.5°C) without dyspnea.
+- Mild to moderate musculoskeletal sprain or strain with intact ambulation and no visible deformity.
+- Persistent gastroenteritis or diarrhea (>48 hours) with mild crampy abdominal pain and normal hydration status.
+- Acute uncomplicated urinary tract infection (dysuria, urinary frequency) without flank pain or high fever.
+- Cutaneous rashes without mucosal involvement, respiratory symptoms, or systemic toxicity.
+
+5. ROUTINE REVIEW (TARGET WAIT TIME: < 240 MINUTES)
+Stable, chronic, or elective health consultations:
+- Routine preventive health checkup or immunization counseling.
+- Chronic medication refills for stable asthma, allergic rhinitis, or eczema.
+- Minor superficial abrasions, paper cuts, or skin tags requiring routine dressing.
+- Medical fitness certificate endorsements and routine laboratory requisition requests.
+
+6. INSUFFICIENT INFORMATION FLAG
+When self-reported forms lack symptom duration, omit severity ratings, or include conflicting temperature/pain inputs, the case is assigned INSUFFICIENT INFORMATION. Staff must interview the patient directly before committing to a routine queue.
